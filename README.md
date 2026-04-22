@@ -47,9 +47,9 @@ A parceria tem como objeto a manutenção de **Serviços de Acolhimento Instituc
 - **Termo de Colaboração:** Instrumento de parceria para projetos propostos pela Administração Pública que envolvam transferência de recursos financeiros.
 
 ### 3. Prompts Reutilizáveis para Revisão
-- *"Liste as metas quantitativas de 2025 e compare com os resultados apresentados no Relatório de Atividades de 2025."*
-- *"Sintetize as principais obrigações da OSC e do Município conforme a Cláusula Segunda e Terceira do Termo."*
-- *"Identifique no Plano de Aplicação quais despesas de 2025 são financiadas especificamente com repasse de recursos próprios da prefeitura e qual o valor dos repasses."*
+- > *"Liste as metas quantitativas de 2025 e compare com os resultados apresentados no Relatório de Atividades de 2025."*
+- > *"Sintetize as principais obrigações da OSC e do Município conforme a Cláusula Segunda e Terceira do Termo."*
+- > *"Identifique no Plano de Aplicação quais despesas de 2025 são financiadas especificamente com repasse de recursos próprios da prefeitura e qual o valor dos repasses."*
 
 
 ---
