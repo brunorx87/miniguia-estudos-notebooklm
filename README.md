@@ -36,7 +36,7 @@ Para obter uma análise de nível profissional, utilizei a técnica de **Persona
 
 ### 1. Resumos Estruturados do Assunto
 A parceria tem como objeto a manutenção de **Serviços de Acolhimento Institucional de Longa Permanência para Idosos (ILPI)**. 
-- **Público Atendido:** Atendimento médio mensal de 24 a 26 idosos[cite: 348, 627, 795].
+- **Público Atendido:** Atendimento médio mensal de 24 a 26 idosos.
 - **Equipe de Referência:** Profissionais celetistas e cedidos, incluindo Assistente Social, Psicólogo, Fisioterapeuta, Terapeuta Ocupacional, Cuidadores, Médicos e Dentistas.
 - **Financiamento:** Estrutura mista composta por repasses Municipais (Pedregulho e Jeriquara), Estaduais, Federais, Recursos Próprios e contribuição de 70% do benefício previdenciário dos idosos.
 
@@ -49,7 +49,8 @@ A parceria tem como objeto a manutenção de **Serviços de Acolhimento Instituc
 ### 3. Prompts Reutilizáveis para Revisão
 - *"Liste as metas quantitativas de 2025 e compare com os resultados apresentados no Relatório de Atividades de 2025."*
 - *"Sintetize as principais obrigações da OSC e do Município conforme a Cláusula Segunda e Terceira do Termo."*
-- *"Identifique no Plano de Aplicação quais despesas de 2025 são financiadas especificamente pelo Convenio Federal."*
+- *"Identifique no Plano de Aplicação quais despesas de 2025 são financiadas especificamente com repasse de recursos próprios da prefeitura e qual o valor dos repasses."*
+
 
 ---
 **Projeto desenvolvido por:** Bruno
